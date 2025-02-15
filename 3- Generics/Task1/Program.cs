@@ -8,7 +8,7 @@
             int[] arr = { 1, 2, 5, 9 };
             Employee[] employees = { new Employee(101, 5000), new Employee(102, 8000), new Employee(103, 3000)};
 
-            //--------- Task 1 ---------
+            //----------- 1 -----------
 
             ArrayUtils.ReverseArray(ref arr);
 
@@ -23,7 +23,7 @@
                 Console.Write($"{it} ");
             Console.WriteLine();
 
-            //--------- Task 2 ---------
+            //----------- 2 -----------
 
             Console.WriteLine(ArrayUtils.FindMax(arr, Comparer<int>.Default));
             Console.WriteLine(ArrayUtils.FindMax(employees, new EmpComparer())); 

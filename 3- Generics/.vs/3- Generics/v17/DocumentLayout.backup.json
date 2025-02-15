@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0F45FC2-83EF-43E4-A761-28CC488CDCA0}|Task2\\Task2.csproj|e:\\git\\advancedc#-tasks\\3- generics\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F45FC2-83EF-43E4-A761-28CC488CDCA0}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64D4EA01-D2A9-401D-8496-FF0D571ABA2D}|Task1\\Task1.csproj|e:\\git\\advancedc#-tasks\\3- generics\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D4EA01-D2A9-401D-8496-FF0D571ABA2D}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D4EA01-D2A9-401D-8496-FF0D571ABA2D}|Task1\\Task1.csproj|e:\\git\\advancedc#-tasks\\3- generics\\task1\\empcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D4EA01-D2A9-401D-8496-FF0D571ABA2D}|Task1\\Task1.csproj|solutionrelative:task1\\empcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D4EA01-D2A9-401D-8496-FF0D571ABA2D}|Task1\\Task1.csproj|e:\\git\\advancedc#-tasks\\3- generics\\task1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D4EA01-D2A9-401D-8496-FF0D571ABA2D}|Task1\\Task1.csproj|solutionrelative:task1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D4EA01-D2A9-401D-8496-FF0D571ABA2D}|Task1\\Task1.csproj|e:\\git\\advancedc#-tasks\\3- generics\\task1\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D4EA01-D2A9-401D-8496-FF0D571ABA2D}|Task1\\Task1.csproj|solutionrelative:task1\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0F45FC2-83EF-43E4-A761-28CC488CDCA0}|Task2\\Task2.csproj|e:\\git\\advancedc#-tasks\\3- generics\\task2\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F45FC2-83EF-43E4-A761-28CC488CDCA0}|Task2\\Task2.csproj|solutionrelative:task2\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F45FC2-83EF-43E4-A761-28CC488CDCA0}|Task2\\Task2.csproj|e:\\git\\advancedc#-tasks\\3- generics\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F45FC2-83EF-43E4-A761-28CC488CDCA0}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +54,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:51:51.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EmpComparer.cs",
+              "DocumentMoniker": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task1\\EmpComparer.cs",
+              "RelativeDocumentMoniker": "Task1\\EmpComparer.cs",
+              "ToolTip": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task1\\EmpComparer.cs",
+              "RelativeToolTip": "Task1\\EmpComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:51:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task1\\Employee.cs",
+              "RelativeDocumentMoniker": "Task1\\Employee.cs",
+              "ToolTip": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task1\\Employee.cs",
+              "RelativeToolTip": "Task1\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:51:43.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayUtils.cs",
+              "DocumentMoniker": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task1\\ArrayUtils.cs",
+              "RelativeDocumentMoniker": "Task1\\ArrayUtils.cs",
+              "ToolTip": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task1\\ArrayUtils.cs",
+              "RelativeToolTip": "Task1\\ArrayUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:51:30.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Cache.cs",
               "DocumentMoniker": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task2\\Cache.cs",
               "RelativeDocumentMoniker": "Task2\\Cache.cs",
               "ToolTip": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task2\\Cache.cs",
               "RelativeToolTip": "Task2\\Cache.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAswDMAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T18:37:26.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
               "ToolTip": "E:\\GIT\\AdvancedC#-Tasks\\3- Generics\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T18:37:12.963Z",
               "EditorCaption": ""
